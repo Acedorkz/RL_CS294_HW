@@ -11,7 +11,7 @@ Need To Be Done
 - [ ] [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), Mnih et al, 2013. 
 
 - [ ] [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581), Wang et al, 2015. **Algorithm: Dueling DQN.**
-- [ ] [eep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461), Hasselt et al 2015. **Algorithm: Double DQN.**
+- [ ] [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461), Hasselt et al 2015. **Algorithm: Double DQN.**
 - [ ] [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952), Schaul et al, 2015. **Algorithm: Prioritized Experience Replay (PER).**
 - [ ] [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298), Hessel et al, 2017. **Algorithm: Rainbow DQN.**
 
